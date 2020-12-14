@@ -14,7 +14,7 @@ function getIntersection(arr1, arr2) {
         if(arrAssociative[value]!==undefined) result.push(value)
     }
 
-	return result
+    return result
 }
 
 let arr1 = [1, 5, 23, 8, 3, 2, 3, 6]
